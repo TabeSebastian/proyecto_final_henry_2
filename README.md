@@ -71,7 +71,6 @@ Al observar detenidamente los resultados, queda a la vista que el segmento de ho
 
 ## Conclusiones
 
-
 Al concluir este análisis detallado de las tecnologías de acceso a Internet en Argentina, se desprenden recomendaciones cruciales para empresas en el sector de telecomunicaciones. Estas sugerencias no solo se basan en la comprensión de las tendencias pasadas, sino que también miran hacia el futuro, considerando las demandas cambiantes del mercado y las oportunidades emergentes.
 
 1. **Enfoque en Banda Ancha Fija:**
@@ -98,16 +97,8 @@ Al concluir este análisis detallado de las tecnologías de acceso a Internet en
 
 En resumen, las estrategias recomendadas se centran en la mejora continua, la adaptabilidad, la personalización de servicios y la expansión estratégica. La implementación de estas recomendaciones permitirá a las empresas de telecomunicaciones no solo mantenerse competitivas en el mercado argentino sino también liderar en la satisfacción de las crecientes demandas y expectativas de los usuarios
 
-## Instrucciones de Ejecución
-
-Si es relevante, proporciona instrucciones claras sobre cómo ejecutar tu código o analizar los datos.
-
-## Contribuciones
-
-Si has trabajado en equipo, menciona las contribuciones de cada miembro.
-
 ## Referencias
 
-Si has utilizado recursos externos o conjunto de datos, asegúrate de citarlos adecuadamente.
+https://datosabiertos.enacom.gob.ar/home
 
-## Contacto
+https://censo.gob.ar/
